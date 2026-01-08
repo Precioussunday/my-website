@@ -1,2 +1,1 @@
-# my-website
-My personnal website
+index.html
